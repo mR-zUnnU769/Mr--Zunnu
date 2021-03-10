@@ -8,9 +8,9 @@ pkg install git
 
 pkg install python2 
 
-git clone https://github.com/mR-zUnnU769/Mr-Zunu
+git clone https://github.com/mR-zUnnU769/Mr--Zunnu
 
-cd Mr-Zunu
+cd Mr--Zunnu
 
 python2 ZunNu.py
 
