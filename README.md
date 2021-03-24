@@ -1,18 +1,22 @@
-# Mr ZunNu
 
-```
+$ pkg update 
 
-pkg update && pkg upgrade 
+$ pkg upgrade 
 
-pkg install git 
+$ pkg install python 
 
-pkg install python2 
+$ pkg install python2 
 
-git clone https://github.com/mR-zUnnU769/Mr--Zunnu
+$ pip2 install requests 
 
-cd Mr--Zunnu
+$ pip2 install mechanize 
 
-python2 ZunNu.py
+$ pip2 install bs4 
 
-```
+$ pkg install git 
 
+$git clone https://github.com/mR-zUnnU769/Mr--Zunnu 
+
+$cd Mr--Zunnu 
+
+$python2 ZunNu.py
